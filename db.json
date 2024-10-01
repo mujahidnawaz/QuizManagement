@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullname": "studentName",
+      "email": "student@example.com",
+      "password": "student123",
+      "role": "student",
+      "status": "accepted"
+    },
+    {
+      "id": "2",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "8213",
+      "fullname": "Ali Ahsan",
+      "email": "ali@gmail.com",
+      "password": "ali",
+      "role": "student",
+      "cv": "Mujahid Nawaz.pdf",
+      "status": "accepted"
+    },
+    {
+      "id": "7d20",
+      "fullname": "Zaha",
+      "email": "zaha@gmail.com",
+      "password": "zaha",
+      "role": "student",
+      "cv": "Mujahid Nawaz.pdf",
+      "status": "accepted"
+    },
+    {
+      "id": "dfb4",
+      "fullname": "Umar",
+      "email": "umar@gmail.com",
+      "password": "umar",
+      "role": "student",
+      "cv": "Mujahid Nawaz.pdf",
+      "status": "rejected"
+    },
+    {
+      "id": "b825",
+      "fullname": "Sharif",
+      "email": "sharif@gmail.com",
+      "password": "sharif",
+      "role": "manager",
+      "cv": "Mujahid Nawaz.pdf",
+      "status": "pending"
+    },
+    {
+      "id": "e61c",
+      "fullname": "hayyat",
+      "email": "hayatkhizar410@gamil.com",
+      "password": "hayat",
+      "role": "student",
+      "cv": "Resume.pdf",
+      "status": "pending"
+    },
+    {
+      "id": "3902",
+      "fullname": "azeem",
+      "email": "azeem@gmail.com",
+      "password": "azeem",
+      "role": "student",
+      "cv": "Resume.pdf",
+      "status": "accepted"
+    }
+  ]
+}
